@@ -1,39 +1,23 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+**Poppinz Parties****\
+**
 
-Welcome USER_NAME,
+The purpose of this project is firstly to fulfil the criteria of the first Milestone project, but more importantly, to produce stronger, on-line presence for my friend's business, "Poppinz Parties".  As the name suggests, Poppinz provide a children's party, entertainment service.  They have a strong presence on social media, but require a website to serve as a hub for their videos, photos and reviews.  They also need to access new customers and develop their brand.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+[](#ux)**UX**
+-------------
 
-## Gitpod Reminders
+**Who is the website for?**
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Initially, the intended users will be parents who wish to provide an enjoyable and memorable party experience for their children and their children's friends.
 
-`python3 -m http.server`
+To this end, the homepage will need to instantly convey the nature of the business (i.e. it will have to have pictorial elements and facets that convey the "fun" nature of the service, the fonts and background colours will need to reflect this.)  But this must be balanced by the fact that the primary users are going to be adults- the feel of the website must not be too puerile and it must still have functional navigation and appealing sections.  
 
-A blue button should appear to click: *Make Public*,
+The unique appeal of the service and its high quality must be instantly conveyed also- pictures of previous parties & reviews from previous customers (which are already accessible from social media and are very positive) should therefore be prominent as soon as the user arrives at the site.
 
-Another blue button should appear to click: *Open Browser*.
+Eventually, the site will also provide a base for Poppinz proposed on-line party services.  
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The coronavirus lock-down has a had a hugely detrimental effect on the business. In an attempt to counteract the loss of business that has already occurred and the future impact of social distancing regulations, the business owner has already held a few live streamed, party entertainment sessions via social media platforms.  
 
-A blue button should appear to click: *Make Public*,
+We envisage that these can be accessed directly from the website via some form of portal (yet to be decided)  
 
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
