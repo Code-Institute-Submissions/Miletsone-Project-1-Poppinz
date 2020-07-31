@@ -1,9 +1,19 @@
 .jumbo-header-image {
     background-image: url("/assets/pictures/header-banner.png");
     background-size: cover;
-    
+    height: 250px;
+    width: 100%;
+    padding: 0;
 }
 
+
+
+
+.logo-row {
+    height: 250px;
+    margin-bottom: 0px;
+
+}
 
 .carousel{
     background: #2f4357;
@@ -14,7 +24,4 @@
     min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
 }
 
-
-
-}
 
