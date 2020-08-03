@@ -19,8 +19,12 @@
 }
 
 .carousel{
+   
     background: #2f4357;
     margin-top: 20px;
+    padding-top: 20px;
+    
+}
 
 .carousel-item{
     text-align: center;
@@ -28,3 +32,6 @@
 }
 
 
+.page-content{
+    padding-top: 20px;
+}
