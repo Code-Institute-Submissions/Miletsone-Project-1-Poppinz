@@ -1,3 +1,12 @@
+ @media screen and (max-width: 380px) {
+     .header-text{
+         display: none;
+     }
+ }
+
+
+
+
 .jumbo-header-image {
     background-image: url("/assets/pictures/header-banner.png");
     background-size: cover;
@@ -6,6 +15,10 @@
     padding: 0;
 }
 
+.pop-navbar {
+    background-color: #7a3996 !important;
+    font-family: 'Luckiest Guy', cursive;
+}
 .poppinz_logo {
     padding-top 50px;
     
@@ -20,9 +33,9 @@
 
 .carousel{
    
-    background: #2f4357;
+    background: #7a3996;
     margin-top: 20px;
-    padding-top: 20px;
+    padding-top: 30px;
     
 }
 
@@ -34,4 +47,12 @@
 
 .page-content{
     padding-top: 20px;
+}
+
+.header-text{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 35px;
+    font-family: 'Luckiest Guy', cursive;
+    color: #7a3996;
 }
