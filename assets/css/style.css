@@ -2,10 +2,15 @@
      .header-text{
          display: none;
      }
+     .contact-details{
+        display: none;
+     }
+
+
  }
 
 
-
+/*...Header Styling... */
 
 .jumbo-header-image {
     background-image: url("/assets/pictures/header-banner.png");
@@ -31,11 +36,32 @@
 
 }
 
+
+/*......content styling......*/
+
+
+.card-title a {
+    color: #7a3996;
+}
+
+
+.card-text{
+    font-family: sans-serif;
+}
+
+.card {
+    color:  #7a3996 !important;
+
+}
+
+/*.....Carousel Styling.....*/
+
 .carousel{
    
     background: #7a3996;
-    margin-top: 20px;
-    padding-top: 30px;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     
 }
 
@@ -52,17 +78,45 @@
 .header-text{
     margin-left: 0px;
     margin-right: 0px;
-    padding-top: 35px;
+    padding-top: 20px;
     font-family: 'Luckiest Guy', cursive;
     color: #7a3996;
+    text-shadow: 2px 2px 4px white;
 }
 
 .card-content{
     font-family: 'Luckiest Guy', cursive;
-    color:  #7a3996;
+    
 
 }
 
-.card-text{
-    font-family: sans-serif;
+
+
+
+.contact-details{
+    position: relative;
+    bottom: 0;
+    right: 0;
+    padding-top: 40px;
+    font-family: 'Luckiest Guy', cursive;
+    color: white; 
+    text-shadow: 1px 1px 2px  #7a3996;
+}
+
+.contact-details .fas {
+    color: white; 
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 1px 1px 2px  #7a3996;
+}
+
+.page-footer h6{
+    color:#7a3996  ;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 20px;
+    }
+
+
+footer a {
+    color: #7a3996;
 }
