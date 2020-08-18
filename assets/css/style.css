@@ -70,6 +70,7 @@
     min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
 }
 
+/*.....Home Page Card styling.....*/
 
 .page-content{
     padding-top: 20px;
@@ -91,8 +92,6 @@
 }
 
 
-
-
 .contact-details{
     position: relative;
     bottom: 0;
@@ -110,13 +109,29 @@
     text-shadow: 1px 1px 2px  #7a3996;
 }
 
+
+
+.contact-form{
+    padding-top: 40px;
+}
+
+.contact-form label {
+    font-family: 'Luckiest Guy', cursive;
+    color:  #7a3996 !important;
+}
+
+.btn-success {
+    background-color: #7a3996 !important;
+}
+
+
+/*.....Footer Styling.....*/
+footer a {
+    color: #7a3996;
+}
+
 .page-footer h6{
     color:#7a3996  ;
     font-family: 'Luckiest Guy', cursive;
     font-size: 20px;
     }
-
-
-footer a {
-    color: #7a3996;
-}
