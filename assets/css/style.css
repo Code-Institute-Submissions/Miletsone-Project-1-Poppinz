@@ -5,7 +5,9 @@
      .contact-details{
         display: none;
      }
-
+    .page-header h1 {
+        display: none;
+    }
 
  }
 
@@ -135,3 +137,18 @@ footer a {
     font-family: 'Luckiest Guy', cursive;
     font-size: 20px;
     }
+
+
+.page-header h1 {
+    color:#7a3996  ;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+.page-header h4 {
+    color:#7a3996  ;
+    font-family: 'Luckiest Guy', cursive;
+    padding-bottom: 10px;
+}
