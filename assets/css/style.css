@@ -1,4 +1,6 @@
- @media screen and (max-width: 380px) {
+ @media screen 
+ and (max-width: 380px)
+ and (max-device-width : 480px)  {
      .header-text{
          display: none;
      }
@@ -8,7 +10,9 @@
     .page-header h1 {
         display: none;
     }
-
+    .header-soc-icons {
+        display: none;
+    }
  }
 
 
@@ -151,4 +155,9 @@ footer a {
     color:#7a3996  ;
     font-family: 'Luckiest Guy', cursive;
     padding-bottom: 10px;
+}
+
+.team-cards h5 {
+    color:#7a3996  ;
+    font-family: 'Luckiest Guy', cursive !important;
 }
